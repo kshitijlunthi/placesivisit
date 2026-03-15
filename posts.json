@@ -27,5 +27,17 @@
 "destinationImage":"images/patagonia.jpg",
 "file":"posts/patagonia-guide.html",
 "description":"Complete guide to exploring Patagonia."
+},
+  
+{
+"title":"Darma Valley Travel Blog",
+"image":"images/darmavalley.jpg",
+"continent":"india",
+"destination":"uttarakhand",
+"destinationImage":"images/darmavalley.jpg",
+"file":"posts/Darma Valley Travel Blog.html",
+"description":"Darma Valley Travel Blog: Trek to Panchachuli Hills, Complete Travel Guide & Tips."
 }
+
+  
 ]
