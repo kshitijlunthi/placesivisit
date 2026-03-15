@@ -1,0 +1,31 @@
+[
+{
+"title":"Uttarakhand Trek Guide",
+"image":"images/travel.jpg",
+"continent":"india",
+"destination":"uttarakhand",
+"destinationImage":"images/travel.jpg",
+"file":"posts/uttrakhand-trek.html",
+"description":"Explore the best trekking routes in Uttarakhand."
+},
+
+{
+"title":"Sunrise in Patagonia",
+"image":"images/patagonia.jpg",
+"continent":"europe",
+"destination":"patagonia",
+"destinationImage":"images/patagonia.jpg",
+"file":"posts/patagonia-sunrise.html",
+"description":"Experience the magical sunrise in Patagonia."
+},
+
+{
+"title":"Patagonia Travel Guide",
+"image":"images/patagonia.jpg",
+"continent":"europe",
+"destination":"patagonia",
+"destinationImage":"images/patagonia.jpg",
+"file":"posts/patagonia-guide.html",
+"description":"Complete guide to exploring Patagonia."
+}
+]
